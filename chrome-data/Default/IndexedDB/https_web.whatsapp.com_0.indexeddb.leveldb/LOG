@@ -1,0 +1,25 @@
+2021/09/03-22:43:05.613 f0 Reusing MANIFEST D:\WhatsAppBot\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-22:43:05.613 f0 Recovering log #32
+2021/09/03-22:43:05.642 f0 Reusing old log D:\WhatsAppBot\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000032.log 
+2021/09/03-22:43:09.118 4ae4 Level-0 table #38: started
+2021/09/03-22:43:09.138 4ae4 Level-0 table #38: 1400623 bytes OK
+2021/09/03-22:43:09.140 4ae4 Delete type=0 #32
+2021/09/03-22:43:11.350 2928 Compacting 1@1 + 2@2 files
+2021/09/03-22:43:11.404 2928 Generated table #39@1: 47432 keys, 2242860 bytes
+2021/09/03-22:43:11.419 2928 Generated table #40@1: 4826 keys, 783529 bytes
+2021/09/03-22:43:11.419 2928 Compacted 1@1 + 2@2 files => 3026389 bytes
+2021/09/03-22:43:11.421 2928 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/09/03-22:43:11.421 2928 Delete type=2 #34
+2021/09/03-22:43:11.421 2928 Delete type=2 #35
+2021/09/03-22:43:11.421 2928 Delete type=2 #38
+2021/09/04-00:48:05.078 2c94 Level-0 table #42: started
+2021/09/04-00:48:05.106 2c94 Level-0 table #42: 1400588 bytes OK
+2021/09/04-00:48:05.109 2c94 Delete type=0 #37
+2021/09/04-00:48:10.346 2a80 Compacting 1@1 + 2@2 files
+2021/09/04-00:48:10.402 2a80 Generated table #43@1: 42207 keys, 2244234 bytes
+2021/09/04-00:48:10.423 2a80 Generated table #44@1: 13488 keys, 1035295 bytes
+2021/09/04-00:48:10.423 2a80 Compacted 1@1 + 2@2 files => 3279529 bytes
+2021/09/04-00:48:10.424 2a80 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/09/04-00:48:10.424 2a80 Delete type=2 #39
+2021/09/04-00:48:10.424 2a80 Delete type=2 #40
+2021/09/04-00:48:10.424 2a80 Delete type=2 #42
